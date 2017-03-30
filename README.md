@@ -2,11 +2,6 @@
 
 Marquee React component.
 
-## Installation
-
-```
-$ npm install --save react-reactDOM-marquee
-```
 
 ## Usage
 
