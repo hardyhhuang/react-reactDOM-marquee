@@ -1,0 +1,30 @@
+{
+  "name": "react-reactDOM-marquee",
+  "version": "0.1.0",
+  "description": "A <Marquee> component for React",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel src/ --out-dir lib/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jasonslyvia/react-marquee.git"
+  },
+  "keywords": [
+    "react",
+    "marquee",
+    "component"
+  ],
+  "author": "hardyhhuang <hardyhhuang@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.5.1",
+    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-react": "^6.5.0",
+    "babel-preset-stage-0": "^6.5.0"
+  },
+  "peerDependencies": {
+    "react": "~0.14.0",
+    "react-dom": "~0.14.0"
+  }
+}
